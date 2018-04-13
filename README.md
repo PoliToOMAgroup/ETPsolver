@@ -2,9 +2,10 @@
 An Hybrid Tandem approach to solve examination timetabling problem. 
 
 @ Authors:
-          Pietro Barbiero
-          Manuel Scurti
-          Matteo Senese
+          Pietro Barbiero,
+          Manuel Scurti,
+          Matteo Senese,
+          Chiara Sopegno,
           Antonio Tavera
           
         

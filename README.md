@@ -27,7 +27,7 @@ An Hybrid Tandem approach to solve examination timetabling problem.
                           where INT is the number of available time-slots
                           
                           
-      -instanceXX.stu :   defines the exams in which each student is enrolled
+      -instancename.stu :   defines the exams in which each student is enrolled
                           Format: 1 line for each enrollment. Each line has the format
                                       sINT1  INT2
                           where INT1 is the student ID and INT2 is the ID of the exam in which student

@@ -1,7 +1,7 @@
 # ETPsolver
 An Hybrid Tandem approach to solve examination timetabling problem. 
 
-@ Authors:
+# Authors:
           Pietro Barbiero,
           Manuel Scurti,
           Matteo Senese,
@@ -9,11 +9,11 @@ An Hybrid Tandem approach to solve examination timetabling problem.
           Antonio Tavera
           
         
-@ How to run :
+# How to run :
     
     $ ETPsolver_OMAMZ_group05.exe instancename -t timelimit
  
-@ Input files :
+# Input files :
       
       -instancename.exm : defines the total number of students enrolled per exam
                           Format: 1 line per exam, each line has the format

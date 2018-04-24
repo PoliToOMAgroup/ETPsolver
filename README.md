@@ -32,5 +32,13 @@ An Hybrid Tandem approach to solve examination timetabling problem.
                                       sINT1  INT2
                           where INT1 is the student ID and INT2 is the ID of the exam in which student
                           INT1 is enrolled
-                    
+
+## Output file: 
+	a text file named instancename OMAXX groupYY.sol containing, for each exam, the assigned time-slot
+	format: 1 line per exam. Each line has the format
+	INT1 INT2
+	where INT1 is the exam ID and INT2 is the ID of the assigned time-slot
+	(IDs must correspond to those read in the instance files)
+	
+	it is guaranteed that the solution provided is feasible.
       

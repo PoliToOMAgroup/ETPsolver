@@ -1,5 +1,5 @@
 # ETPsolver
-An Hybrid Tandem approach to solve examination timetabling problem. 
+An Hybrid Tandem approach to solve examination timetabling <b>problem.</b> 
 
 ## Authors:
           Pietro Barbiero,

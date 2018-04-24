@@ -15,7 +15,8 @@ public class Solver {
 		co.instanceName = instanceName;
 		Genetic G = new Genetic(data,co);
 		Solution s = G.beginSelfEvolution();
-
+		
+		System.out.println("RANK of final solution: "+s.getRank());
 		return s;
 	}
 	
